@@ -1,0 +1,101 @@
+Date,Location,Product,Qty,Price,Cost
+2017-01-05,Chicago,Monitor,8,18000,12500
+2017-01-24,San Francisco,Laptop,5,60000,45000
+2017-01-31,New York,Laptop,3,60000,45000
+2017-03-03,New York,Laptop,4,60000,45000
+2017-03-06,Los Angeles,Keyboard,9,1500,900
+2017-03-07,Houston,Keyboard,5,1500,900
+2017-03-21,New York,Monitor,4,18000,12500
+2017-03-23,Los Angeles,Headphones,7,2500,1400
+2017-04-04,Chicago,Mouse,2,800,450
+2017-04-27,Los Angeles,Headphones,3,2500,1400
+2017-04-30,San Francisco,Headphones,1,2500,1400
+2017-05-11,Houston,Monitor,10,18000,12500
+2017-05-16,San Francisco,Mouse,6,800,450
+2017-05-21,Chicago,Mouse,5,800,450
+2017-05-21,Los Angeles,Headphones,4,2500,1400
+2017-05-26,New York,Laptop,2,60000,45000
+2017-05-29,Houston,Laptop,10,60000,45000
+2017-06-04,San Francisco,Mouse,1,800,450
+2017-06-11,Houston,Laptop,2,60000,45000
+2017-06-11,Chicago,Headphones,10,2500,1400
+2017-06-28,Houston,Headphones,1,2500,1400
+2017-07-09,Los Angeles,Monitor,6,18000,12500
+2017-07-13,Houston,Laptop,6,60000,45000
+2017-07-21,Houston,Laptop,6,60000,45000
+2017-07-24,San Francisco,Laptop,4,60000,45000
+2017-08-01,Chicago,Mouse,2,800,450
+2017-08-08,New York,Headphones,5,2500,1400
+2017-08-12,New York,Mouse,4,800,450
+2017-08-13,New York,Mouse,7,800,450
+2017-08-17,Chicago,Laptop,4,60000,45000
+2017-09-25,New York,Keyboard,8,1500,900
+2017-09-26,Houston,Keyboard,6,1500,900
+2017-09-28,San Francisco,Headphones,8,2500,1400
+2017-10-20,New York,Keyboard,4,1500,900
+2017-11-10,New York,Keyboard,9,1500,900
+2017-11-14,Chicago,Mouse,4,800,450
+2017-11-15,Chicago,Mouse,2,800,450
+2017-11-20,Los Angeles,Monitor,5,18000,12500
+2017-11-20,San Francisco,Monitor,5,18000,12500
+2017-11-23,Chicago,Monitor,5,18000,12500
+2017-11-29,Houston,Mouse,1,800,450
+2017-12-05,San Francisco,Keyboard,10,1500,900
+2017-12-17,New York,Headphones,3,2500,1400
+2018-01-03,Houston,Keyboard,4,1500,900
+2018-02-12,Houston,Headphones,4,2500,1400
+2018-02-21,San Francisco,Keyboard,8,1500,900
+2018-03-12,Houston,Monitor,8,18000,12500
+2018-03-26,Los Angeles,Keyboard,4,1500,900
+2018-04-03,Los Angeles,Mouse,9,800,450
+2018-04-06,Chicago,Laptop,1,60000,45000
+2018-04-17,New York,Headphones,1,2500,1400
+2018-04-22,Houston,Laptop,5,60000,45000
+2018-05-03,Houston,Keyboard,4,1500,900
+2018-05-13,Houston,Monitor,4,18000,12500
+2018-05-27,Chicago,Laptop,9,60000,45000
+2018-05-30,Los Angeles,Laptop,7,60000,45000
+2018-06-23,Houston,Headphones,10,2500,1400
+2018-07-01,Los Angeles,Mouse,7,800,450
+2018-07-21,Los Angeles,Laptop,6,60000,45000
+2018-07-25,New York,Monitor,2,18000,12500
+2018-08-01,New York,Headphones,6,2500,1400
+2018-08-08,San Francisco,Monitor,8,18000,12500
+2018-09-04,San Francisco,Headphones,4,2500,1400
+2018-09-22,Los Angeles,Mouse,4,800,450
+2018-10-01,Chicago,Monitor,8,18000,12500
+2018-10-05,Los Angeles,Laptop,10,60000,45000
+2018-10-06,Chicago,Mouse,7,800,450
+2018-11-28,Chicago,Laptop,7,60000,45000
+2018-12-06,Chicago,Headphones,1,2500,1400
+2018-12-29,Chicago,Mouse,2,800,450
+2019-01-11,New York,Headphones,2,2500,1400
+2019-01-17,Chicago,Laptop,4,60000,45000
+2019-01-27,San Francisco,Headphones,3,2500,1400
+2019-03-29,New York,Keyboard,3,1500,900
+2019-04-02,New York,Laptop,7,60000,45000
+2019-04-07,San Francisco,Laptop,4,60000,45000
+2019-04-13,New York,Headphones,4,2500,1400
+2019-04-13,Houston,Monitor,4,18000,12500
+2019-05-17,San Francisco,Mouse,4,800,450
+2019-05-18,Houston,Monitor,1,18000,12500
+2019-05-26,Los Angeles,Headphones,2,2500,1400
+2019-05-31,Los Angeles,Mouse,5,800,450
+2019-06-27,Los Angeles,Headphones,1,2500,1400
+2019-07-08,Houston,Mouse,3,800,450
+2019-07-09,Chicago,Headphones,1,2500,1400
+2019-07-18,New York,Keyboard,6,1500,900
+2019-07-30,Los Angeles,Headphones,7,2500,1400
+2019-08-05,Chicago,Monitor,9,18000,12500
+2019-08-17,Chicago,Headphones,9,2500,1400
+2019-09-04,San Francisco,Headphones,3,2500,1400
+2019-09-28,Los Angeles,Laptop,6,60000,45000
+2019-10-23,San Francisco,Mouse,2,800,450
+2019-11-01,Los Angeles,Headphones,9,2500,1400
+2019-11-03,New York,Keyboard,6,1500,900
+2019-11-10,Los Angeles,Monitor,1,18000,12500
+2019-11-26,Los Angeles,Monitor,4,18000,12500
+2019-12-07,Chicago,Keyboard,4,1500,900
+2019-12-20,San Francisco,Laptop,5,60000,45000
+2019-12-23,San Francisco,Laptop,6,60000,45000
+2019-12-27,New York,Mouse,8,800,450
